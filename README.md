@@ -6,6 +6,7 @@ A hypothetical nonprofit foundation, Alphabet Soup, needs help analyzing the imp
 
 ## Resources
 Data Source: charity_data.csv
+
 Software: Python 3.9.12, Jupyter Notebook 6.4.8, TensorFlow 2.3.1, Scikit-learn
 
 
