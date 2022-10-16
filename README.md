@@ -18,6 +18,10 @@ Software: Python, Jupyter Notebook, TensorFlow 2.3.1, Scikit-learn
 
 - Following variables are neither targets nor features and should be removed from the input data, EIN, NAME, STATUS, and SPECIAL_CONSIDERATION
 Following pictures all show all the results.
+<img width="1229" alt="DataPreprocessing" src="https://user-images.githubusercontent.com/106944351/196012689-98dbb2c6-eb90-4dda-ac03-f2f82e7b32d9.png">
+
+<img width="1216" alt="Preprocessing1" src="https://user-images.githubusercontent.com/106944351/196012692-664ec369-4ec0-4555-9dc4-d3de5b3ecf85.png">
+
 
 ### Compiling, Training, and Evaluating the Model
 
@@ -28,6 +32,11 @@ Following pictures all show all the results.
 - I tried to increase model performance by dropping some more columns which were not necessary for the analysis, added more neurons to the hidden layers, also used different activation functions, created more bins, decreasing values in some bins, also increased number of epochs.
 
 Following pictures will show all the results.
+<img width="1174" alt="Compile" src="https://user-images.githubusercontent.com/106944351/196012694-fd48bd28-a4fc-42a1-a859-ffabc731ba8f.png">
+
+<img width="1186" alt="complie1" src="https://user-images.githubusercontent.com/106944351/196012703-71ddd5ca-32a9-431b-be02-e9fd81474e6c.png">
+
+<img width="1216" alt="Compile2" src="https://user-images.githubusercontent.com/106944351/196012707-d3f2975f-7450-48a6-8040-af12a71fb44b.png">
 
 
 ## Summary : 
